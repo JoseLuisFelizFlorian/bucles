@@ -42,6 +42,7 @@
 //#endregion
 
 using bucles;
+Console.WriteLine("Esta es una modificacion de prueba para git");
 
 Practica1 p1 = new Practica1();
 Practica2 p2 = new Practica2();
