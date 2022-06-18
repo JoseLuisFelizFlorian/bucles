@@ -15,9 +15,7 @@ namespace bucles
             for (int i = 2; i <= 9; i++)
             {
                 //las lineas de los ** se usan como ecoracion y separadores entre las tablas 
-                Console.WriteLine("*************************************");
-                Console.WriteLine("Tabla del " + i);
-                Console.WriteLine("*************************************");
+                Console.WriteLine("*************************************\n Tabla del {0} \n*************************************",i);
 
                 for (int e = 1; e <= 10; e++)
                 {
